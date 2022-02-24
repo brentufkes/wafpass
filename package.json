@@ -6,7 +6,7 @@
     "express-basic-auth": "1.2.0",
     "forever-monitor": "1.7.2",
     "http-status-codes": "2.1.2",
-    "knex": "0.21.5",
+    "knex": "0.95.15",
     "lodash": "4.17.20",
     "luxon": "1.25.0",
     "minimist": "1.2.5",
