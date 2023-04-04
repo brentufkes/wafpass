@@ -4,7 +4,7 @@
   "dependencies": {
     "apidoc": "0.25.0",
     "express-basic-auth": "1.2.0",
-    "forever-monitor": "1.7.2",
+    "forever-monitor": "3.0.3",
     "http-status-codes": "2.1.2",
     "knex": "0.21.5",
     "lodash": "4.17.20",
