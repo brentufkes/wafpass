@@ -2,7 +2,7 @@
   "name": "polling-infinity",
   "version": "1",
   "dependencies": {
-    "apidoc": "0.25.0",
+    "apidoc": "0.55.0",
     "express-basic-auth": "1.2.0",
     "forever-monitor": "1.7.2",
     "http-status-codes": "2.1.2",
